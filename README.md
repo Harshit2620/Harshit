@@ -1,6 +1,6 @@
 - 👋 Hi there! I'm @Harshit2620
 - 💻 Passionate about coding and turning ideas into digital experiences.
-- 🌱 Currently diving deep into Frontend Development, sharpening my skills in HTML, CSS, JavaScript, and beyond.
+- 🌱 Currently diving deep into Frontend Development and exploring Python with Django and PHP core for backend development.
 - 🤝 Eager to collaborate on exciting open-source projects and innovative web development ventures.
 - 📫 Reach me at: harshitpandey2620@gmail.com. Let's build something amazing together!
 
