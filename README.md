@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Harshit2620
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Frontend Development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - harshitpandey2620@gmail.com
+- 👋 Hi there! I'm @Harshit2620
+- 💻 Passionate about coding and turning ideas into digital experiences.
+- 🌱 Currently diving deep into Frontend Development, sharpening my skills in HTML, CSS, JavaScript, and beyond.
+- 🤝 Eager to collaborate on exciting open-source projects and innovative web development ventures.
+- 📫 Reach me at: harshitpandey2620@gmail.com. Let's build something amazing together!
 
 <!---
 Harshit2620/Harshit2620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
